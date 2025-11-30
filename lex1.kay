@@ -1,0 +1,4 @@
+main {
+    integer price;
+    pri$e := 10;
+}

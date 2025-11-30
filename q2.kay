@@ -1,0 +1,12 @@
+main {
+    integer a, b, min;
+
+    a := 3;        
+    b := 7;        
+
+    if (a < b) {
+        min := a;
+    } else {
+        min := b;
+    }
+}
